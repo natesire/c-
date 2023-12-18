@@ -1,2 +1,2 @@
-# c-
+# c++
 Algorithms in C++
